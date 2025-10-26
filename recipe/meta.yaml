@@ -20,6 +20,7 @@ requirements:
   host:
     - pip
     - python
+    - setuptools
   run:
     - cli_helpers >=2.2.1
     - click >=4.1
